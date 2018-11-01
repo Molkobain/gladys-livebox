@@ -1,0 +1,25 @@
+{
+  "name": "molkobain-livebox",
+  "version": "0.1.0",
+  "description": "Gladys module to control Livebox decoder from Orange ISP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Molkobain/gladys-livebox.git"
+  },
+  "keywords": [
+    "gladys",
+    "orange",
+    "livebox",
+    "tv",
+  ],
+  "author": "Molkobain",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/Molkobain/gladys-livebox/issues"
+  },
+  "homepage": "https://github.com/Molkobain/gladys-livebox#readme"
+}
