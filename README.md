@@ -1,4 +1,4 @@
-TODO 👋 [Available on Molkobain I/O](https://www.molkobain.com/product/caselogs-toggler/)
+TODO 👋 [Available on Molkobain I/O]()
 
 # Gladys extension: molkobain-livebox
 
